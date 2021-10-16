@@ -10,6 +10,9 @@ namespace DenemeProje
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Onur was here 16.10.21");
+            Console.ReadKey();
+
         }
     }
 }
